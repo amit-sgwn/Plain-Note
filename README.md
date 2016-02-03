@@ -1,0 +1,3 @@
+# Plain-Note
+Fun time
+
